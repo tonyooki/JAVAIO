@@ -8,7 +8,7 @@ public class JavaInputStream {
 		FileOutputStream os=null;
 		try{
 			os=new FileOutputStream(path);
-			os.write("i love coding!".getBytes());
+			os.write("i love coding madafucker!".getBytes());
 		}catch(Exception e){
 			e.printStackTrace();
 		}finally{
